@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akiramatrix/areact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/akiramatrix/areact/static/js/main.8dfdbfe9.chunk.js",
+    "main.js.map": "/akiramatrix/areact/static/js/main.8dfdbfe9.chunk.js.map",
+    "runtime-main.js": "/akiramatrix/areact/static/js/runtime-main.80410fdc.js",
+    "runtime-main.js.map": "/akiramatrix/areact/static/js/runtime-main.80410fdc.js.map",
+    "static/js/2.2e06293d.chunk.js": "/akiramatrix/areact/static/js/2.2e06293d.chunk.js",
+    "static/js/2.2e06293d.chunk.js.map": "/akiramatrix/areact/static/js/2.2e06293d.chunk.js.map",
+    "index.html": "/akiramatrix/areact/index.html",
+    "precache-manifest.f62f708848dc600c1109a401bf6efad8.js": "/akiramatrix/areact/precache-manifest.f62f708848dc600c1109a401bf6efad8.js",
+    "service-worker.js": "/akiramatrix/areact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/akiramatrix/areact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2e06293d.chunk.js.LICENSE.txt": "/akiramatrix/areact/static/js/2.2e06293d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80410fdc.js",
+    "static/js/2.2e06293d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8dfdbfe9.chunk.js"
+  ]
+}
